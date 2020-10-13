@@ -1,1 +1,1 @@
-# trtpo2
+# trtpo2 - менеджер финансов (WalletMaster)
