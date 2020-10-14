@@ -10,7 +10,7 @@
     
 ## 1. Диаграмма прецедентов<a name="1"></a> 
 
-![Диаграмма прецедентов](https://github.com/FakeAccountQWE/trtpo2/blob/master/diagrams/Use%20case/use_cases.png)
+![Диаграмма прецедентов](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Use%20case/use_cases.png)
 
 
 ## 1.1 Актёры<a name="1.1"></a>
