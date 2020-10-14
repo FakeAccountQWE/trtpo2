@@ -1,7 +1,7 @@
 # UML Diagrams
 ## Состав
 
-1. [Use case](https://github.com/LiL-Dicky/TaskMaster/tree/master/Диаграммы/Use%20case)
+1. [Use case](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Use%20case)
 2. [Activity]()
 3. [Sequence]()
 4. [Statechart]()
