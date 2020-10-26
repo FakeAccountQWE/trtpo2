@@ -9,4 +9,7 @@
 6. [Component](https://github.com/FakeAccountQWE/trtpo2/tree/main/diagrams/Component)
 7. [Deployment](https://github.com/FakeAccountQWE/trtpo2/tree/main/diagrams/Deployment)
 
+## WalletManager
+[WalletManager](https://github.com/FakeAccountQWE/trtpo2)
+
 
