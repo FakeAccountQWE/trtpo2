@@ -46,7 +46,7 @@
 ### 1.7 Создание статьи<a name="1.7"></a>
 **Описание:** Пользователь создает новую статью в группе расходов/доходов.
 
-![Создание статьи](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Statechart/Создание%20статьи.png)
+![Создание статьи](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Statechart/Cоздание%20статьи.png)
 
 ### 1.8 Удаление группы<a name="1.8"></a>
 **Описание:** Пользователь удаляет выбранную группу расходов/доходов.
