@@ -1,3 +1,3 @@
 # Диаграмма размещения
-![](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Deployment/DeploymentDiagram.png)
+![Диаграмма размещения](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Deployment/DeploymentDiagram.PNG)
 
