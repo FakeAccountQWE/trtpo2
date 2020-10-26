@@ -65,4 +65,4 @@
 4. Конец.
 
 ## Диаграммы<a name="2"></a>
-![Диаграммы](https://github.com/FakeAccountQWE/trtpo2/tree/main/diagrams)
+[Диаграммы](https://github.com/FakeAccountQWE/trtpo2/tree/main/diagrams)
