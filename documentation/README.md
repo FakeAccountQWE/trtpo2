@@ -10,6 +10,8 @@
   3.1 [Функциональные требования](#3.1) <br>
   3.2 [Атрибуты качества](#3.2) <br>
 4. [Аналоги](#4) <br>
+## WalletManager
+[WalletManager](https://github.com/FakeAccountQWE/trtpo2)
 
 ### 1.Введение<a name="1"></a>
 	
