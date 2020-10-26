@@ -1,3 +1,3 @@
 # Диаграмма размещения
-![](https://github.com/LiL-Dicky/TaskMaster/blob/master/Диаграммы/Sequence/%231.png)
+![](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Deployment/DeploymentDiagram.png)
 
