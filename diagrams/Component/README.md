@@ -1,3 +1,3 @@
-# Диаграмма классов
-![Диаграмма классов](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Class/ClassDiagram.png)
+# Диаграмма компонентов
+![Диаграмма компонентов](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Component/ComponentDiagram.png)
 
