@@ -65,5 +65,5 @@
 
 ![Удаление статьи](https://github.com/FakeAccountQWE/trtpo2/blob/main/diagrams/Activity/Удаление%20статьи.png)
 
-## 2.[Диаграммы](#2)<br>
+## 2.[Диаграммы]<a name="2"></a>
 [Диаграммы](https://github.com/FakeAccountQWE/trtpo2/tree/main/diagrams)
