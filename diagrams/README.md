@@ -1,10 +1,17 @@
-# UML Diagrams
-## Состав
+# Содержание
+1. [Диаграммы последовательностей](#1)<br>
+1.1 [Добавить задачу](#1.1)<br>
+1.2 [Удалить задачу](#1.2)<br>
+1.3 [Редакировать задачу](#1.3)<br>
 
-1. [Use case](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Use%20case)
-2. [Activity](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Activity)
-3. [Sequence](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Sequence)
-4. [Statechart](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Statechart)
-5. [Class](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Class)
-6. [Component](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Component)
-7. [Deployment](https://github.com/FakeAccountQWE/trtpo2/tree/master/diagrams/Deployment)
+# 1. Диаграммы последовательностей<a name="1"></a>
+
+## 1.1 Добавить задачу<a name="1.1"></a>
+![Добавить задачу](https://github.com/LiL-Dicky/TaskMaster/blob/master/Диаграммы/Sequence/%231.png)
+
+## 1.2 Удалить задачу<a name="1.2"></a>
+![Удалить задачу](https://github.com/LiL-Dicky/TaskMaster/blob/master/Диаграммы/Sequence/%232.png)
+
+## 1.3 Редакировать задачу<a name="1.3"></a>
+![Редакировать задачу](https://github.com/LiL-Dicky/TaskMaster/blob/master/Диаграммы/Sequence/%233.png)
+
