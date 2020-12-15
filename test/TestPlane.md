@@ -42,4 +42,4 @@
 Для тестирования приложения необходимо использовать ручное тестирование, чтобы проверить все аспекты тестирования. 
 
 ## <a name="par6">6. Представление результатов</a>
-Результаты тестирования представлены в документе [Test](https://github.com/AndreiGlinka830501/trtpo2-1/blob/main/test/Test_WalletMaster.pdf).
+Результаты тестирования представлены в документе [Test](https://github.com/FakeAccountQWE/trtpo2/blob/main/test/Test_WalletMaster.pdf).
